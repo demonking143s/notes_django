@@ -135,7 +135,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://yout-frontend.vercel.app",  # Next.js dev
+    "https://notes-django.vercel.app",  # Next.js dev
 ]
 CORS_ALLOW_CREDENTIALS = True
 
